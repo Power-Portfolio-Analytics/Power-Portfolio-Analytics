@@ -1,4 +1,4 @@
-# Power-Portfolio-Analytics
+# Power Portfolio Analytics (Portfolio Management System)
 
 ## Executive Summary
 With the objective of designing and developing an intelligent systematic trading system leveraging the fundamentals of investing, data visualisation and automation, we have developed the prototype of our trading system in 3 phases: Design, Development & Test and Deployment.
